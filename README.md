@@ -1,24 +1,27 @@
-# SalesDashboard
-This Sales Dashboard helps businesses track sales performance with visual insights on revenue trends, top products, and sales team performance. Interactive filters allow users to explore data by month and product category, making it easy to identify patterns and make informed decisions for growth.
+Sales Dashboard
+It provides key insights into revenue trends, top-selling products, high-performing sales team members, and revenue contributions across various states. Designed for easy analysis, it enables businesses to track performance and make data-driven decisions.
 
-**Features**
-Order Date Filter: Select specific months or years to analyze sales performance over time.
-Roast Type Selection: Filter sales based on coffee roast type (Dark, Light, Medium).
-Product Size Options: Choose between different product sizes (0.2kg, 0.5kg, 1.0kg, 2.5kg) to compare sales.
-Loyalty Card Filter: View sales data based on customer loyalty card membership.
-Total Sales Over Time Chart: Displays sales trends across different coffee varieties (Arabica, Excelsa, Liberia, Robusta).
-Sales by Country: Breakdown of sales revenue across different regions.
-Top 5 Customers: Highlights the top customers contributing to the total sales.
+Features
+Revenue Trend Analysis: Pie chart displaying monthly revenue distribution.
+Top 5 Products: Bar chart highlighting the best-selling products.
+Revenue Contribution: Line chart showcasing revenue share by different categories.
+Top 10 Sales Team Members: Ranked chart of the highest revenue-generating employees.
+Top 10 States by Revenue: Bar chart comparing revenue across states.
+Revenue and Profit Overview: Summary of total revenue and profit.
+Slicers for Filtering: Interactive filters for selecting sales data by month and product category.
 
-**Technologies Used**
-Microsoft Excel(for visualization)
-Data Analytics (for trend analysis and reporting)
+How to Use
+Select Filters: Use the slicers to filter data by month and product category.
+Analyze Trends: Review charts and graphs to understand sales performance.
+Identify Opportunities: Use insights to optimize sales strategies and boost revenue.
 
-**How to Use:**
-Open the dashboard in Excel or Power BI.
-Use the filters at the top to customize the sales data view.
-Analyze the charts to gain insights into sales performance.
-Identify key trends and adjust business strategies accordingly.
+Applications
+Business performance tracking
+Sales forecasting and decision-making
+Identifying top products and sales personnel
+Analyzing revenue contributions by category and region
 
-**Contributing**
-If you have suggestions for improvements or additional features, feel free to fork the repository and submit a pull request.
+Technologies Used
+Microsoft Excel 
+Data visualization tools
+Interactive dashboards
